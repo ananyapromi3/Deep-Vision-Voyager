@@ -1,7 +1,7 @@
 # Deep-Vision-Voyager
 
 **Microcontroller:** Raspberry Pi 4
-**Other hardware:** Motor, l298n motor driver, webcam, Wi-Fi adapter, SG90 servo motor, webcam, power bank
+**Other hardware:** Motor, l298n motor driver, webcam, Wi-Fi adapter, SG90 servo motor, power bank
 **Deep learning architecture for object detection:** YOLO v3 
 
 This is our CSE 316 project named “DeepVision Voyager” which is basically a moving robot controlled by a computer located remotely using socket programming over wifi network. It captures live video from its surroundings and streams it in server computer and finally it can detect objects with high precision from its live video stream. Its camera angle can also be adjusted by servo motor. The central processing unit has Raspberry Pi 4 in it.
